@@ -1,0 +1,2003 @@
+{
+  "60173929289@s.whatsapp.net": {
+    "jid": "60173929289@s.whatsapp.net",
+    "name": "Qei",
+    "class": "mage",
+    "registeredAt": "2026-05-13T07:49:10.724Z",
+    "lastActive": "2026-05-15T13:37:08.927Z",
+    "title": "Newcomer",
+    "unlockedTitles": [
+      "Newcomer"
+    ],
+    "level": 1,
+    "xp": 96,
+    "xpToNext": 100,
+    "gold": 7593,
+    "statPoints": 0,
+    "skillPoints": 0,
+    "stats": {
+      "hp": 1,
+      "maxHp": 70,
+      "mana": 120,
+      "maxMana": 120,
+      "attack": 18,
+      "defense": 2,
+      "agility": 9,
+      "luck": 8,
+      "physicalAtk": 0,
+      "magicalAtk": 12,
+      "hybridAtk": 3,
+      "physicalDef": 0,
+      "magicalDef": 10,
+      "hybridDef": 3
+    },
+    "skills": [
+      {
+        "id": "frost_bolt",
+        "name": "Frost Bolt",
+        "damageType": "magical",
+        "effect": "slow",
+        "value": 6,
+        "damage": 20,
+        "duration": 2,
+        "manaCost": 18,
+        "cooldown": 4,
+        "cooldownRemaining": 0,
+        "description": "Launches a bolt of frost, dealing 20 magical damage and reducing enemy agility by 6 for 2 rounds."
+      },
+      {
+        "id": null,
+        "name": null,
+        "effect": null,
+        "value": 0,
+        "manaCost": 0,
+        "cooldown": 0,
+        "cooldownRemaining": 0,
+        "description": null
+      },
+      {
+        "id": null,
+        "name": null,
+        "effect": null,
+        "value": 0,
+        "manaCost": 0,
+        "cooldown": 0,
+        "cooldownRemaining": 0,
+        "description": null
+      }
+    ],
+    "learnedSkills": [],
+    "passive": {
+      "id": "arcane_mind",
+      "name": "Arcane Mind",
+      "effect": "mana_regen",
+      "value": 6,
+      "description": "Naturally channels mana, regenerating 6 mana every round in combat."
+    },
+    "equipment": {
+      "weapon": {
+        "id": "wooden_staff",
+        "name": "🪄 Wooden Staff",
+        "type": "staff",
+        "twoHanded": true,
+        "stats": {
+          "attack": 7,
+          "magicalAtk": 5,
+          "mana": 10
+        },
+        "rarity": "common",
+        "passive": null,
+        "skill": null
+      },
+      "offhand": {
+        "id": null,
+        "name": null,
+        "type": null,
+        "stats": {}
+      },
+      "armor": {
+        "head": {
+          "id": null,
+          "name": null,
+          "stats": {}
+        },
+        "chest": {
+          "id": null,
+          "name": null,
+          "stats": {}
+        },
+        "legs": {
+          "id": null,
+          "name": null,
+          "stats": {}
+        },
+        "boots": {
+          "id": null,
+          "name": null,
+          "stats": {}
+        }
+      },
+      "accessory": {
+        "id": null,
+        "name": null,
+        "stats": {}
+      }
+    },
+    "inventory": [
+      {
+        "id": "basic_pickaxe",
+        "qty": 1
+      },
+      {
+        "id": "basic_axe",
+        "qty": 1
+      },
+      {
+        "id": "basic_rod",
+        "qty": 1
+      },
+      {
+        "id": "skill_book_magic_missile",
+        "qty": 1
+      },
+      {
+        "id": "crab_shell",
+        "qty": 4
+      },
+      {
+        "id": "fresh_fish",
+        "qty": 2
+      },
+      {
+        "id": "wild_herb",
+        "qty": 2
+      },
+      {
+        "id": "frog_skin",
+        "qty": 1
+      },
+      {
+        "id": "deer_hide",
+        "qty": 2
+      },
+      {
+        "id": "acorn",
+        "qty": 8
+      },
+      {
+        "id": "wolf_fang",
+        "qty": 2
+      },
+      {
+        "id": "stone_axe",
+        "qty": 1
+      },
+      {
+        "id": "antidote",
+        "qty": 1
+      },
+      {
+        "id": "leather_boots",
+        "qty": 1
+      },
+      {
+        "id": "wooden_staff",
+        "qty": 2
+      },
+      {
+        "id": "mana_potion",
+        "qty": 20
+      },
+      {
+        "id": "health_potion",
+        "qty": 20
+      },
+      {
+        "id": "birch_wood",
+        "qty": 1
+      },
+      {
+        "id": "pine_wood",
+        "qty": 1
+      }
+    ],
+    "currentLocation": "starter_village",
+    "unlockedLocations": [
+      "starter_village",
+      "riverside_path",
+      "shallow_pond",
+      "sandy_beach",
+      "fishing_village",
+      "peaceful_forest"
+    ],
+    "statusEffects": [],
+    "achievements": [],
+    "questLog": {
+      "active": [],
+      "completed": []
+    },
+    "stats_tracker": {
+      "totalKills": 15,
+      "totalDeaths": 2,
+      "totalGoldEarned": 49,
+      "totalDamageDealt": 0,
+      "totalDamageTaken": 0,
+      "huntCount": 0,
+      "mineCount": 0,
+      "chopCount": 2,
+      "fishCount": 0,
+      "bossesKilled": 0,
+      "forageCount": 2
+    },
+    "reputation": {
+      "starter_village": 0
+    },
+    "exp": 100
+  },
+  "6282239902921@s.whatsapp.net": {
+    "jid": "6282239902921@s.whatsapp.net",
+    "name": "Evarick",
+    "class": "rogue",
+    "registeredAt": "2026-05-13T11:44:53.331Z",
+    "lastActive": "2026-05-17T00:18:48.430Z",
+    "title": "Newcomer",
+    "unlockedTitles": [
+      "Newcomer"
+    ],
+    "level": 7,
+    "xp": 416,
+    "xpToNext": 757,
+    "gold": 2030,
+    "statPoints": 0,
+    "skillPoints": 0,
+    "stats": {
+      "maxHp": 90,
+      "maxMana": 45,
+      "attack": 29,
+      "defense": 3,
+      "agility": 20,
+      "luck": 14,
+      "physicalAtk": 5,
+      "magicalAtk": 3,
+      "hybridAtk": 8,
+      "physicalDef": 2,
+      "magicalDef": 2,
+      "hybridDef": 5,
+      "hp": 640,
+      "mana": 45
+    },
+    "skills": [
+      {
+        "id": "backstab",
+        "name": "Backstab",
+        "damageType": "physical",
+        "effect": "damage",
+        "value": 14,
+        "damage": 14,
+        "manaCost": 15,
+        "cooldown": 7,
+        "cooldownRemaining": 0,
+        "description": "Strikes from the shadows. Deals 14 physical damage."
+      },
+      {
+        "id": null,
+        "name": null,
+        "effect": null,
+        "value": 0,
+        "manaCost": 0,
+        "cooldown": 0,
+        "cooldownRemaining": 0,
+        "description": null
+      },
+      {
+        "id": null,
+        "name": null,
+        "effect": null,
+        "value": 0,
+        "manaCost": 0,
+        "cooldown": 0,
+        "cooldownRemaining": 0,
+        "description": null
+      }
+    ],
+    "learnedSkills": [],
+    "passive": {
+      "id": "shadow_step",
+      "name": "Shadow Step",
+      "effect": "agility_to_dodge",
+      "value": 1,
+      "description": "Agility directly translates to dodge chance in combat. High agility = hard to hit."
+    },
+    "equipment": {
+      "weapon": {
+        "id": "dragonslayer_sword",
+        "name": "⚔️ Dragonslayer Sword",
+        "type": "sword",
+        "twoHanded": true,
+        "stats": {
+          "attack": 40,
+          "critChance": 12,
+          "magicalAtk": 10,
+          "hp": 30
+        },
+        "rarity": "epic",
+        "passive": {
+          "id": "critical_eye",
+          "name": "Critical Eye",
+          "emoji": "🎯",
+          "effect": "crit_boost",
+          "value": 10
+        },
+        "skill": null
+      },
+      "offhand": {
+        "id": null,
+        "name": null,
+        "type": null,
+        "stats": {}
+      },
+      "armor": {
+        "head": {
+          "id": "titan_head",
+          "name": "🪖 Titan Head",
+          "armorSet": "titan",
+          "stats": {
+            "defense": 28,
+            "hp": 98,
+            "physicalDef": 21,
+            "magicalDef": 14,
+            "attack": 7
+          },
+          "rarity": "epic",
+          "setBonus": {
+            "requiredPieces": 4,
+            "passives": [
+              {
+                "id": "stone_skin",
+                "name": "Stone Skin",
+                "emoji": "🪨",
+                "effect": "defense_boost",
+                "value": 8
+              }
+            ]
+          }
+        },
+        "chest": {
+          "id": "titan_chest",
+          "name": "🦺 Titan Chest",
+          "armorSet": "titan",
+          "stats": {
+            "defense": 52,
+            "hp": 182,
+            "physicalDef": 39,
+            "magicalDef": 26,
+            "attack": 13
+          },
+          "rarity": "epic",
+          "setBonus": {
+            "requiredPieces": 4,
+            "passives": [
+              {
+                "id": "stone_skin",
+                "name": "Stone Skin",
+                "emoji": "🪨",
+                "effect": "defense_boost",
+                "value": 8
+              }
+            ]
+          }
+        },
+        "legs": {
+          "id": "titan_legs",
+          "name": "👖 Titan Legs",
+          "armorSet": "titan",
+          "stats": {
+            "defense": 40,
+            "hp": 140,
+            "physicalDef": 30,
+            "magicalDef": 20,
+            "attack": 10
+          },
+          "rarity": "epic",
+          "setBonus": {
+            "requiredPieces": 4,
+            "passives": [
+              {
+                "id": "stone_skin",
+                "name": "Stone Skin",
+                "emoji": "🪨",
+                "effect": "defense_boost",
+                "value": 8
+              }
+            ]
+          }
+        },
+        "boots": {
+          "id": "titan_boots",
+          "name": "🥾 Titan Boots",
+          "armorSet": "titan",
+          "stats": {
+            "defense": 32,
+            "hp": 112,
+            "physicalDef": 24,
+            "magicalDef": 16,
+            "attack": 8
+          },
+          "rarity": "epic",
+          "setBonus": {
+            "requiredPieces": 4,
+            "passives": [
+              {
+                "id": "stone_skin",
+                "name": "Stone Skin",
+                "emoji": "🪨",
+                "effect": "defense_boost",
+                "value": 8
+              }
+            ]
+          }
+        }
+      },
+      "accessory": {
+        "id": null,
+        "name": null,
+        "stats": {}
+      }
+    },
+    "inventory": [
+      {
+        "id": "basic_rod",
+        "qty": 2
+      },
+      {
+        "id": "swamp_eel",
+        "qty": 1
+      },
+      {
+        "id": "golden_carp",
+        "qty": 1
+      },
+      {
+        "id": "basic_pickaxe",
+        "qty": 1
+      },
+      {
+        "id": "basic_axe",
+        "qty": 2
+      },
+      {
+        "id": "skill_book_whirlwind",
+        "qty": 1
+      },
+      {
+        "id": "skill_book_ambush",
+        "qty": 1
+      },
+      {
+        "id": "skill_book_mana_drain",
+        "qty": 1
+      },
+      {
+        "id": "ebony_wood",
+        "qty": 1
+      },
+      {
+        "id": "leather_boots",
+        "qty": 2
+      },
+      {
+        "id": "antidote",
+        "qty": 10
+      },
+      {
+        "id": "mahogany",
+        "qty": 1
+      },
+      {
+        "id": "world_tree_branch",
+        "qty": 1
+      },
+      {
+        "id": "ghostwood",
+        "qty": 1
+      },
+      {
+        "id": "crab_axe",
+        "qty": 1
+      },
+      {
+        "id": "mega_potion",
+        "qty": 3
+      },
+      {
+        "id": "leather_legs",
+        "qty": 1
+      },
+      {
+        "id": "leather_chest",
+        "qty": 1
+      },
+      {
+        "id": "leather_head",
+        "qty": 1
+      },
+      {
+        "id": "iron_dagger",
+        "qty": 1
+      },
+      {
+        "id": "health_potion",
+        "qty": 14
+      },
+      {
+        "id": "teleport_scroll",
+        "qty": 1
+      },
+      {
+        "id": "mana_potion",
+        "qty": 10
+      },
+      {
+        "id": "coal",
+        "qty": 2
+      },
+      {
+        "id": "stone_shell",
+        "qty": 1
+      },
+      {
+        "id": "skill_book_battle_cry",
+        "qty": 1
+      }
+    ],
+    "currentLocation": "jade_temple",
+    "unlockedLocations": [
+      "starter_village",
+      "peaceful_forest",
+      "green_meadow",
+      "sunny_hills",
+      "trading_post",
+      "flower_garden",
+      "riverside_path",
+      "shallow_pond",
+      "fishing_village",
+      "sandy_beach",
+      "old_bridge",
+      "misty_grove",
+      "mushroom_patch",
+      "berry_thicket",
+      "rocky_path",
+      "windy_cliff",
+      "ancient_oak",
+      "hidden_cave",
+      "whispering_canyon",
+      "echo_caves",
+      "forgotten_shrine",
+      "bamboo_forest",
+      "jade_temple",
+      "shadow_woods",
+      "iron_mine",
+      "miners_rest",
+      "copper_canyon",
+      "silver_lake",
+      "moonlit_shore",
+      "enchanted_grove",
+      "fairy_village",
+      "mystic_waterfall",
+      "hidden_grotto",
+      "crystal_forest",
+      "prism_valley",
+      "riverside_camp",
+      "pebble_beach",
+      "calm_lake",
+      "lakeside_inn",
+      "stone_bridge",
+      "country_road",
+      "farmers_market",
+      "apple_orchard",
+      "wheat_field",
+      "abandoned_farm",
+      "willow_grove",
+      "rushing_river",
+      "pine_forest",
+      "oak_woodland",
+      "hunters_trail",
+      "bramble_thicket",
+      "mossy_cave",
+      "woodland_outpost",
+      "mountain_outpost",
+      "frozen_peaks",
+      "frozen_abyss_portal",
+      "volcanic_ridge",
+      "twilight_meadow"
+    ],
+    "statusEffects": [
+      {
+        "type": "well_rested",
+        "value": 10,
+        "duration": 10,
+        "description": "Regenerate 10% HP and Mana per turn in combat"
+      }
+    ],
+    "achievements": [],
+    "questLog": {
+      "active": [],
+      "completed": []
+    },
+    "stats_tracker": {
+      "totalKills": 105,
+      "totalDeaths": 6,
+      "totalGoldEarned": 4148,
+      "totalDamageDealt": 0,
+      "totalDamageTaken": 0,
+      "huntCount": 0,
+      "mineCount": 3,
+      "chopCount": 4,
+      "fishCount": 2,
+      "bossesKilled": 0,
+      "forageCount": 2
+    },
+    "reputation": 30,
+    "quests": {
+      "daily": {
+        "lastReset": "2026-05-17T00:14:51.645Z",
+        "quests": [
+          {
+            "id": "daily_hunt_5",
+            "progress": 2,
+            "completed": false,
+            "claimed": false
+          },
+          {
+            "id": "daily_gather_10",
+            "progress": 0,
+            "completed": false,
+            "claimed": false
+          },
+          {
+            "id": "daily_gold_500",
+            "progress": 6,
+            "completed": false,
+            "claimed": false
+          },
+          {
+            "id": "daily_travel_3",
+            "progress": 1,
+            "completed": false,
+            "claimed": false
+          },
+          {
+            "id": "daily_craft_5",
+            "progress": 0,
+            "completed": false,
+            "claimed": false
+          }
+        ]
+      },
+      "weekly": {
+        "lastReset": "2026-05-13T13:19:20.787Z",
+        "quests": [
+          {
+            "id": "weekly_hunt_30",
+            "progress": 30,
+            "completed": true,
+            "claimed": true
+          },
+          {
+            "id": "weekly_pvp_5",
+            "progress": 1,
+            "completed": false,
+            "claimed": false
+          },
+          {
+            "id": "weekly_gather_50",
+            "progress": 7,
+            "completed": false,
+            "claimed": false
+          },
+          {
+            "id": "weekly_gold_5000",
+            "progress": 610,
+            "completed": false,
+            "claimed": false
+          },
+          {
+            "id": "weekly_pet_level_5",
+            "progress": 0,
+            "completed": false,
+            "claimed": false
+          }
+        ]
+      },
+      "monthly": {
+        "lastReset": "2026-05-13T13:19:20.787Z",
+        "quests": [
+          {
+            "id": "monthly_hunt_200",
+            "progress": 89,
+            "completed": false,
+            "claimed": false
+          },
+          {
+            "id": "monthly_pvp_20",
+            "progress": 1,
+            "completed": false,
+            "claimed": false
+          },
+          {
+            "id": "monthly_gather_300",
+            "progress": 7,
+            "completed": false,
+            "claimed": false
+          },
+          {
+            "id": "monthly_gold_50000",
+            "progress": 610,
+            "completed": false,
+            "claimed": false
+          },
+          {
+            "id": "monthly_craft_50",
+            "progress": 1,
+            "completed": false,
+            "claimed": false
+          },
+          {
+            "id": "monthly_complete_all",
+            "progress": 0,
+            "completed": false,
+            "claimed": false
+          }
+        ]
+      }
+    },
+    "exp": 475,
+    "pets": [
+      {
+        "id": "crystal_dragon",
+        "name": "Crystal Dragon",
+        "level": 1,
+        "xp": 0,
+        "xpToNext": 100,
+        "obtainedAt": "2026-05-15T00:37:40.579Z",
+        "mood": "Happy"
+      }
+    ],
+    "equippedPet": 0,
+    "knownRecipes": [
+      "mega_potion_recipe",
+      "crab_claw_axe_recipe",
+      "poison_bomb_recipe",
+      "agility_potion_recipe",
+      "health_potion_recipe",
+      "antidote_recipe",
+      "basic_rod_recipe",
+      "craft_longbow_recipe",
+      "craft_ranger_bow_recipe",
+      "craft_hunter_gear_boots_recipe",
+      "craft_smoke_grenade_recipe",
+      "gather_mahogany_plank_recipe",
+      "gather_ebony_wood_plank_recipe",
+      "gather_ghostwood_plank_recipe",
+      "gather_world_tree_branch_plank_recipe",
+      "fish_swamp_eel_mana_recipe",
+      "fish_golden_carp_mega_recipe",
+      "herb_healing_herb_vitals_recipe",
+      "herb_phoenix_petal_health_recipe",
+      "craft_hunter_gear_head_recipe",
+      "craft_hunter_gear_chest_recipe",
+      "craft_hunter_gear_legs_recipe",
+      "craft_wooden_shield_recipe",
+      "leather_recipe",
+      "arcane_staff_recipe",
+      "elixir_recipe",
+      "craft_enchanted_staff_recipe",
+      "craft_runic_staff_recipe",
+      "craft_scholar_robes_boots_recipe",
+      "gather_coal_iron_smelt_recipe",
+      "gather_iron_ore_bar_recipe",
+      "craft_scholar_robes_head_recipe",
+      "craft_scholar_robes_chest_recipe",
+      "craft_scholar_robes_legs_recipe"
+    ],
+    "reputationHistory": [
+      {
+        "amount": -15,
+        "reason": "Ambushed player",
+        "timestamp": "2026-05-15T03:22:07.667Z",
+        "newTotal": -15
+      },
+      {
+        "amount": 5,
+        "reason": "Completed Monster Slayer",
+        "timestamp": "2026-05-16T11:53:13.184Z",
+        "newTotal": -10
+      },
+      {
+        "amount": 5,
+        "reason": "Completed Explorer",
+        "timestamp": "2026-05-16T11:53:13.184Z",
+        "newTotal": -5
+      },
+      {
+        "amount": 5,
+        "reason": "Completed Monster Exterminator",
+        "timestamp": "2026-05-16T11:53:17.840Z",
+        "newTotal": 0
+      }
+    ],
+    "language": "en",
+    "pendingSale": null
+  },
+  "639078442397@s.whatsapp.net": {
+    "jid": "639078442397@s.whatsapp.net",
+    "name": "Shiro",
+    "class": "rogue",
+    "registeredAt": "2026-05-14T15:31:48.623Z",
+    "lastActive": "2026-05-16T09:00:35.209Z",
+    "language": "en",
+    "title": "Newcomer",
+    "unlockedTitles": [
+      "Newcomer"
+    ],
+    "level": 7,
+    "xp": 655,
+    "xpToNext": 1135,
+    "gold": 13324,
+    "statPoints": 0,
+    "skillPoints": 0,
+    "stats": {
+      "hp": 266,
+      "maxHp": 90,
+      "mana": 45,
+      "maxMana": 45,
+      "attack": 32,
+      "defense": 3,
+      "agility": 20,
+      "luck": 14,
+      "physicalAtk": 5,
+      "magicalAtk": 3,
+      "hybridAtk": 8,
+      "physicalDef": 2,
+      "magicalDef": 2,
+      "hybridDef": 5
+    },
+    "skills": [
+      {
+        "id": "backstab",
+        "name": "Backstab",
+        "damageType": "physical",
+        "effect": "damage",
+        "value": 14,
+        "damage": 14,
+        "manaCost": 15,
+        "cooldown": 7,
+        "cooldownRemaining": 0,
+        "description": "Strikes from the shadows. Deals 14 physical damage."
+      },
+      {
+        "id": null,
+        "name": null,
+        "effect": null,
+        "value": 0,
+        "manaCost": 0,
+        "cooldown": 0,
+        "cooldownRemaining": 0,
+        "description": null
+      },
+      {
+        "id": null,
+        "name": null,
+        "effect": null,
+        "value": 0,
+        "manaCost": 0,
+        "cooldown": 0,
+        "cooldownRemaining": 0,
+        "description": null
+      }
+    ],
+    "learnedSkills": [],
+    "passive": {
+      "id": "shadow_step",
+      "name": "Shadow Step",
+      "effect": "agility_to_dodge",
+      "value": 1,
+      "description": "Agility directly translates to dodge chance in combat. High agility = hard to hit."
+    },
+    "equipment": {
+      "weapon": {
+        "id": "steel_sword",
+        "name": "⚔️ Steel Sword",
+        "type": "sword",
+        "twoHanded": false,
+        "stats": {
+          "attack": 15,
+          "critChance": 5,
+          "defense": 2
+        },
+        "rarity": "uncommon",
+        "passive": null,
+        "skill": null
+      },
+      "offhand": {
+        "id": null,
+        "name": null,
+        "type": null,
+        "stats": {}
+      },
+      "armor": {
+        "head": {
+          "id": "steel_head",
+          "name": "🪖 Steel Head",
+          "armorSet": "steel",
+          "stats": {
+            "defense": 12,
+            "hp": 42,
+            "physicalDef": 8,
+            "agility": 1
+          },
+          "rarity": "uncommon",
+          "setBonus": null
+        },
+        "chest": {
+          "id": "steel_chest",
+          "name": "🦺 Steel Chest",
+          "armorSet": "steel",
+          "stats": {
+            "defense": 23,
+            "hp": 78,
+            "physicalDef": 15,
+            "agility": 2
+          },
+          "rarity": "uncommon",
+          "setBonus": null
+        },
+        "legs": {
+          "id": "steel_legs",
+          "name": "👖 Steel Legs",
+          "armorSet": "steel",
+          "stats": {
+            "defense": 18,
+            "hp": 60,
+            "physicalDef": 12,
+            "agility": 2
+          },
+          "rarity": "uncommon",
+          "setBonus": null
+        },
+        "boots": {
+          "id": "steel_boots",
+          "name": "🥾 Steel Boots",
+          "armorSet": "steel",
+          "stats": {
+            "defense": 14,
+            "hp": 48,
+            "physicalDef": 9,
+            "agility": 1
+          },
+          "rarity": "uncommon",
+          "setBonus": null
+        }
+      },
+      "accessory": {
+        "id": null,
+        "name": null,
+        "stats": {}
+      }
+    },
+    "inventory": [
+      {
+        "id": "crab_shell",
+        "qty": 1
+      },
+      {
+        "id": "wild_herb",
+        "qty": 15
+      },
+      {
+        "id": "basic_pickaxe",
+        "qty": 1,
+        "durability": 41
+      },
+      {
+        "id": "basic_axe",
+        "qty": 1,
+        "durability": 50
+      },
+      {
+        "id": "basic_rod",
+        "qty": 1,
+        "durability": 59
+      },
+      {
+        "id": "fish_scale",
+        "qty": 4
+      },
+      {
+        "id": "seagull_feather",
+        "qty": 3
+      },
+      {
+        "id": "crab_claw",
+        "qty": 2
+      },
+      {
+        "id": "river_trout",
+        "qty": 1
+      },
+      {
+        "id": "wild_mushroom",
+        "qty": 15
+      },
+      {
+        "id": "frog_leg",
+        "qty": 1
+      },
+      {
+        "id": "swamp_root",
+        "qty": 4
+      },
+      {
+        "id": "healing_herb",
+        "qty": 10
+      },
+      {
+        "id": "phoenix_petal",
+        "qty": 1
+      },
+      {
+        "id": "town_portal",
+        "qty": 18
+      },
+      {
+        "id": "rusty_sword",
+        "qty": 1
+      },
+      {
+        "id": "chicken_feather",
+        "qty": 1
+      },
+      {
+        "id": "iron_dagger",
+        "qty": 1
+      },
+      {
+        "id": "bag_expansion",
+        "qty": 2
+      },
+      {
+        "id": "leather_boots",
+        "qty": 1
+      },
+      {
+        "id": "gathering_basket",
+        "qty": 2
+      },
+      {
+        "id": "dragon_herb",
+        "qty": 4
+      },
+      {
+        "id": "honey",
+        "qty": 18
+      },
+      {
+        "id": "ladybug_shell",
+        "qty": 12
+      },
+      {
+        "id": "bat_wing",
+        "qty": 9
+      },
+      {
+        "id": "mega_potion",
+        "qty": 7
+      },
+      {
+        "id": "elixir",
+        "qty": 6
+      },
+      {
+        "id": "poison_bomb",
+        "qty": 5
+      },
+      {
+        "id": "fire_flask",
+        "qty": 5
+      },
+      {
+        "id": "troll_hide",
+        "qty": 1
+      },
+      {
+        "id": "snake_skin",
+        "qty": 7
+      },
+      {
+        "id": "slug_slime",
+        "qty": 6
+      },
+      {
+        "id": "snail_shell",
+        "qty": 3
+      },
+      {
+        "id": "gold_ore",
+        "qty": 1
+      },
+      {
+        "id": "lizard_tail",
+        "qty": 1
+      },
+      {
+        "id": "bat_fang",
+        "qty": 1
+      },
+      {
+        "id": "frog_skin",
+        "qty": 2
+      },
+      {
+        "id": "rat_tail",
+        "qty": 8
+      },
+      {
+        "id": "rusty_dagger",
+        "qty": 2
+      },
+      {
+        "id": "stolen_coin",
+        "qty": 21
+      },
+      {
+        "id": "butterfly_wing",
+        "qty": 15
+      },
+      {
+        "id": "goblin_ear",
+        "qty": 2
+      },
+      {
+        "id": "acorn",
+        "qty": 7
+      },
+      {
+        "id": "fox_tail",
+        "qty": 1
+      },
+      {
+        "id": "shadow_root",
+        "qty": 5
+      },
+      {
+        "id": "fresh_fish",
+        "qty": 3
+      },
+      {
+        "id": "owl_feather",
+        "qty": 11
+      },
+      {
+        "id": "raccoon_fur",
+        "qty": 7
+      },
+      {
+        "id": "poison_mushroom",
+        "qty": 2
+      },
+      {
+        "id": "bear_claw",
+        "qty": 2
+      },
+      {
+        "id": "boar_tusk",
+        "qty": 1
+      },
+      {
+        "id": "hedgehog_spine",
+        "qty": 3
+      },
+      {
+        "id": "harpy_feather",
+        "qty": 11
+      },
+      {
+        "id": "sonic_crystal",
+        "qty": 4
+      },
+      {
+        "id": "echo_wing",
+        "qty": 3
+      },
+      {
+        "id": "wind_essence",
+        "qty": 4
+      },
+      {
+        "id": "air_essence",
+        "qty": 4
+      },
+      {
+        "id": "gold_bar",
+        "qty": 5
+      },
+      {
+        "id": "health_potion",
+        "qty": 20
+      },
+      {
+        "id": "location_stone",
+        "qty": 5
+      },
+      {
+        "id": "mist_essence",
+        "qty": 2
+      },
+      {
+        "id": "rainbow_scale",
+        "qty": 1
+      },
+      {
+        "id": "crystal_fang",
+        "qty": 7
+      },
+      {
+        "id": "prism_shard",
+        "qty": 1
+      },
+      {
+        "id": "glass_silk",
+        "qty": 3
+      },
+      {
+        "id": "soul_herb",
+        "qty": 2
+      },
+      {
+        "id": "elixir_flower",
+        "qty": 2
+      },
+      {
+        "id": "moonflower",
+        "qty": 1
+      }
+    ],
+    "currentLocation": "trading_post",
+    "unlockedLocations": [
+      "starter_village",
+      "riverside_path",
+      "shallow_pond",
+      "sandy_beach",
+      "fishing_village",
+      "green_meadow",
+      "peaceful_forest",
+      "sunny_hills",
+      "flower_garden",
+      "trading_post",
+      "old_bridge",
+      "misty_grove",
+      "mushroom_patch",
+      "berry_thicket",
+      "rocky_path",
+      "windy_cliff",
+      "ancient_oak",
+      "hidden_cave",
+      "whispering_canyon",
+      "echo_caves",
+      "forgotten_shrine",
+      "twilight_meadow",
+      "jade_temple",
+      "shadow_woods",
+      "iron_mine",
+      "miners_rest",
+      "silver_lake",
+      "moonlit_shore",
+      "enchanted_grove",
+      "fairy_village",
+      "mystic_waterfall",
+      "hidden_grotto",
+      "crystal_forest",
+      "prism_valley",
+      "copper_canyon",
+      "bandit_hideout"
+    ],
+    "statusEffects": [
+      {
+        "type": "well_rested",
+        "value": 10,
+        "duration": 10,
+        "description": "Regenerate 10% HP and Mana per turn in combat"
+      }
+    ],
+    "achievements": [],
+    "questLog": {
+      "active": [],
+      "completed": []
+    },
+    "stats_tracker": {
+      "totalKills": 182,
+      "totalDeaths": 1,
+      "totalGoldEarned": 12798,
+      "totalDamageDealt": 0,
+      "totalDamageTaken": 0,
+      "huntCount": 0,
+      "mineCount": 1,
+      "chopCount": 0,
+      "fishCount": 1,
+      "bossesKilled": 0,
+      "forageCount": 68
+    },
+    "reputation": null,
+    "dungeonRuns": 0,
+    "dungeonLastReset": null,
+    "knownRecipes": [
+      "crab_claw_axe_recipe",
+      "defense_potion_recipe",
+      "antidote_recipe",
+      "golden_rod_recipe",
+      "mega_potion_recipe",
+      "poison_bomb_recipe",
+      "goblin_slayer_sword_recipe",
+      "rat_tooth_blade_recipe",
+      "mana_potion_recipe",
+      "agility_potion_recipe"
+    ],
+    "exp": 270,
+    "quests": {
+      "daily": {
+        "lastReset": "2026-05-16T03:20:19.545Z",
+        "quests": [
+          {
+            "id": "daily_hunt_5",
+            "progress": 5,
+            "completed": true,
+            "claimed": false
+          },
+          {
+            "id": "daily_gather_10",
+            "progress": 10,
+            "completed": true,
+            "claimed": false
+          },
+          {
+            "id": "daily_gold_500",
+            "progress": 500,
+            "completed": true,
+            "claimed": false
+          },
+          {
+            "id": "daily_travel_3",
+            "progress": 3,
+            "completed": true,
+            "claimed": false
+          },
+          {
+            "id": "daily_craft_5",
+            "progress": 0,
+            "completed": false,
+            "claimed": false
+          }
+        ]
+      },
+      "weekly": {
+        "lastReset": "2026-05-15T09:19:00.532Z",
+        "quests": [
+          {
+            "id": "weekly_hunt_30",
+            "progress": 30,
+            "completed": true,
+            "claimed": false
+          },
+          {
+            "id": "weekly_pvp_5",
+            "progress": 0,
+            "completed": false,
+            "claimed": false
+          },
+          {
+            "id": "weekly_gather_50",
+            "progress": 42,
+            "completed": false,
+            "claimed": false
+          },
+          {
+            "id": "weekly_gold_5000",
+            "progress": 1537,
+            "completed": false,
+            "claimed": false
+          },
+          {
+            "id": "weekly_pet_level_5",
+            "progress": 0,
+            "completed": false,
+            "claimed": false
+          }
+        ]
+      },
+      "monthly": {
+        "lastReset": "2026-05-15T09:19:00.533Z",
+        "quests": [
+          {
+            "id": "monthly_hunt_200",
+            "progress": 141,
+            "completed": false,
+            "claimed": false
+          },
+          {
+            "id": "monthly_pvp_20",
+            "progress": 0,
+            "completed": false,
+            "claimed": false
+          },
+          {
+            "id": "monthly_gather_300",
+            "progress": 42,
+            "completed": false,
+            "claimed": false
+          },
+          {
+            "id": "monthly_gold_50000",
+            "progress": 1537,
+            "completed": false,
+            "claimed": false
+          },
+          {
+            "id": "monthly_craft_50",
+            "progress": 0,
+            "completed": false,
+            "claimed": false
+          },
+          {
+            "id": "monthly_complete_all",
+            "progress": 0,
+            "completed": false,
+            "claimed": false
+          }
+        ]
+      }
+    }
+  },
+  "639605258537@s.whatsapp.net": {
+    "jid": "639605258537@s.whatsapp.net",
+    "name": "Min",
+    "class": "mage",
+    "registeredAt": "2026-05-15T03:00:08.612Z",
+    "lastActive": "2026-05-16T23:44:54.352Z",
+    "language": "en",
+    "title": "Newcomer",
+    "unlockedTitles": [
+      "Newcomer"
+    ],
+    "level": 5,
+    "xp": 411,
+    "xpToNext": 505,
+    "gold": 11794,
+    "statPoints": 12,
+    "skillPoints": 0,
+    "stats": {
+      "maxHp": 70,
+      "maxMana": 120,
+      "attack": 18,
+      "defense": 2,
+      "agility": 9,
+      "luck": 8,
+      "physicalAtk": 0,
+      "magicalAtk": 12,
+      "hybridAtk": 3,
+      "physicalDef": 0,
+      "magicalDef": 10,
+      "hybridDef": 3,
+      "hp": 178,
+      "mana": 107
+    },
+    "skills": [
+      {
+        "id": "frost_bolt",
+        "name": "Frost Bolt",
+        "damageType": "magical",
+        "effect": "slow",
+        "value": 6,
+        "damage": 20,
+        "duration": 2,
+        "manaCost": 18,
+        "cooldown": 4,
+        "cooldownRemaining": 0,
+        "description": "Launches a bolt of frost, dealing 20 magical damage and reducing enemy agility by 6 for 2 rounds."
+      },
+      {
+        "id": null,
+        "name": null,
+        "effect": null,
+        "value": 0,
+        "manaCost": 0,
+        "cooldown": 0,
+        "cooldownRemaining": 0,
+        "description": null
+      },
+      {
+        "id": null,
+        "name": null,
+        "effect": null,
+        "value": 0,
+        "manaCost": 0,
+        "cooldown": 0,
+        "cooldownRemaining": 0,
+        "description": null
+      }
+    ],
+    "learnedSkills": [],
+    "passive": {
+      "id": "arcane_mind",
+      "name": "Arcane Mind",
+      "effect": "mana_regen",
+      "value": 6,
+      "description": "Naturally channels mana, regenerating 6 mana every round in combat."
+    },
+    "equipment": {
+      "weapon": {
+        "id": "apprentice_staff",
+        "name": "🪄 Apprentice Staff",
+        "type": "staff",
+        "twoHanded": true,
+        "stats": {
+          "attack": 13,
+          "magicalAtk": 10,
+          "mana": 20,
+          "defense": 3
+        },
+        "rarity": "uncommon",
+        "passive": null,
+        "skill": null
+      },
+      "offhand": {
+        "id": null,
+        "name": null,
+        "type": null,
+        "stats": {}
+      },
+      "armor": {
+        "head": {
+          "id": "steel_head",
+          "name": "🪖 Steel Head",
+          "armorSet": "steel",
+          "stats": {
+            "defense": 12,
+            "hp": 42,
+            "physicalDef": 8,
+            "agility": 1
+          },
+          "rarity": "uncommon",
+          "setBonus": null
+        },
+        "chest": {
+          "id": "steel_chest",
+          "name": "🦺 Steel Chest",
+          "armorSet": "steel",
+          "stats": {
+            "defense": 23,
+            "hp": 78,
+            "physicalDef": 15,
+            "agility": 2
+          },
+          "rarity": "uncommon",
+          "setBonus": null
+        },
+        "legs": {
+          "id": "steel_legs",
+          "name": "👖 Steel Legs",
+          "armorSet": "steel",
+          "stats": {
+            "defense": 18,
+            "hp": 60,
+            "physicalDef": 12,
+            "agility": 2
+          },
+          "rarity": "uncommon",
+          "setBonus": null
+        },
+        "boots": {
+          "id": "steel_boots",
+          "name": "🥾 Steel Boots",
+          "armorSet": "steel",
+          "stats": {
+            "defense": 14,
+            "hp": 48,
+            "physicalDef": 9,
+            "agility": 1
+          },
+          "rarity": "uncommon",
+          "setBonus": null
+        }
+      },
+      "accessory": {
+        "id": null,
+        "name": null,
+        "stats": {}
+      }
+    },
+    "inventory": [
+      {
+        "id": "healing_herb",
+        "qty": 2
+      },
+      {
+        "id": "deer_hide",
+        "qty": 5
+      },
+      {
+        "id": "basic_pickaxe",
+        "qty": 1
+      },
+      {
+        "id": "basic_axe",
+        "qty": 1,
+        "durability": 42
+      },
+      {
+        "id": "basic_rod",
+        "qty": 1
+      },
+      {
+        "id": "skill_book_magic_missile",
+        "qty": 2
+      },
+      {
+        "id": "wolf_fang",
+        "qty": 1
+      },
+      {
+        "id": "wild_mushroom",
+        "qty": 2
+      },
+      {
+        "id": "acorn",
+        "qty": 7
+      },
+      {
+        "id": "oak_wood",
+        "qty": 2
+      },
+      {
+        "id": "wild_herb",
+        "qty": 2
+      },
+      {
+        "id": "swamp_root",
+        "qty": 2
+      },
+      {
+        "id": "mahogany",
+        "qty": 1
+      },
+      {
+        "id": "gold_bar",
+        "qty": 10
+      },
+      {
+        "id": "mega_potion",
+        "qty": 6
+      },
+      {
+        "id": "chicken_feather",
+        "qty": 1
+      },
+      {
+        "id": "rabbit_fur",
+        "qty": 3
+      },
+      {
+        "id": "phoenix_petal",
+        "qty": 1
+      },
+      {
+        "id": "shadow_root",
+        "qty": 1
+      },
+      {
+        "id": "poison_mushroom",
+        "qty": 1
+      },
+      {
+        "id": "dragon_herb",
+        "qty": 1
+      },
+      {
+        "id": "skill_book_thunder_shock",
+        "qty": 1
+      },
+      {
+        "id": "gathering_basket",
+        "qty": 1
+      },
+      {
+        "id": "wooden_staff",
+        "qty": 1
+      },
+      {
+        "id": "iron_rod",
+        "qty": 2,
+        "durability": 148
+      },
+      {
+        "id": "butterfly_wing",
+        "qty": 2
+      },
+      {
+        "id": "honey",
+        "qty": 7
+      },
+      {
+        "id": "goblin_ear",
+        "qty": 1
+      },
+      {
+        "id": "troll_hide",
+        "qty": 1
+      },
+      {
+        "id": "raccoon_fur",
+        "qty": 5
+      },
+      {
+        "id": "beetle_shell",
+        "qty": 1
+      },
+      {
+        "id": "bear_claw",
+        "qty": 1
+      },
+      {
+        "id": "hedgehog_spine",
+        "qty": 3
+      },
+      {
+        "id": "lizard_tail",
+        "qty": 1
+      },
+      {
+        "id": "vulture_beak",
+        "qty": 1
+      },
+      {
+        "id": "hawk_talon",
+        "qty": 2
+      },
+      {
+        "id": "hardwood_beak",
+        "qty": 1
+      },
+      {
+        "id": "bat_fang",
+        "qty": 1
+      },
+      {
+        "id": "spider_silk",
+        "qty": 1
+      },
+      {
+        "id": "stone_shell",
+        "qty": 1
+      },
+      {
+        "id": "location_stone",
+        "qty": 4
+      },
+      {
+        "id": "snake_skin",
+        "qty": 7
+      },
+      {
+        "id": "slug_slime",
+        "qty": 2
+      },
+      {
+        "id": "owl_feather",
+        "qty": 7
+      },
+      {
+        "id": "wind_essence",
+        "qty": 2
+      },
+      {
+        "id": "harpy_feather",
+        "qty": 2
+      },
+      {
+        "id": "boar_tusk",
+        "qty": 2
+      },
+      {
+        "id": "crystal_trout",
+        "qty": 1
+      },
+      {
+        "id": "golden_carp",
+        "qty": 1
+      },
+      {
+        "id": "fox_tail",
+        "qty": 1
+      },
+      {
+        "id": "turtle_shell",
+        "qty": 1
+      },
+      {
+        "id": "crab_claw",
+        "qty": 2
+      }
+    ],
+    "currentLocation": "fairy_village",
+    "unlockedLocations": [
+      "starter_village",
+      "peaceful_forest",
+      "green_meadow",
+      "sunny_hills",
+      "flower_garden",
+      "trading_post",
+      "old_bridge",
+      "misty_grove",
+      "mushroom_patch",
+      "berry_thicket",
+      "rocky_path",
+      "windy_cliff",
+      "ancient_oak",
+      "hidden_cave",
+      "whispering_canyon",
+      "echo_caves",
+      "shallow_pond",
+      "fishing_village",
+      "sandy_beach",
+      "riverside_path",
+      "mystic_waterfall",
+      "fairy_village"
+    ],
+    "statusEffects": [
+      {
+        "type": "well_rested",
+        "value": 10,
+        "duration": 10,
+        "description": "Regenerate 10% HP and Mana per turn in combat"
+      }
+    ],
+    "achievements": [],
+    "questLog": {
+      "active": [],
+      "completed": []
+    },
+    "stats_tracker": {
+      "totalKills": 80,
+      "totalDeaths": 4,
+      "totalGoldEarned": 1717,
+      "totalDamageDealt": 0,
+      "totalDamageTaken": 0,
+      "huntCount": 0,
+      "mineCount": 0,
+      "chopCount": 4,
+      "fishCount": 2,
+      "bossesKilled": 0,
+      "forageCount": 13
+    },
+    "reputation": null,
+    "dungeonRuns": 0,
+    "dungeonLastReset": null,
+    "quests": {
+      "daily": {
+        "lastReset": "2026-05-16T23:44:46.578Z",
+        "quests": [
+          {
+            "id": "daily_hunt_5",
+            "progress": 0,
+            "completed": false,
+            "claimed": false
+          },
+          {
+            "id": "daily_gather_10",
+            "progress": 0,
+            "completed": false,
+            "claimed": false
+          },
+          {
+            "id": "daily_gold_500",
+            "progress": 0,
+            "completed": false,
+            "claimed": false
+          },
+          {
+            "id": "daily_travel_3",
+            "progress": 2,
+            "completed": false,
+            "claimed": false
+          },
+          {
+            "id": "daily_craft_5",
+            "progress": 0,
+            "completed": false,
+            "claimed": false
+          }
+        ]
+      },
+      "weekly": {
+        "lastReset": "2026-05-15T11:53:18.558Z",
+        "quests": [
+          {
+            "id": "weekly_hunt_30",
+            "progress": 30,
+            "completed": true,
+            "claimed": false
+          },
+          {
+            "id": "weekly_pvp_5",
+            "progress": 0,
+            "completed": false,
+            "claimed": false
+          },
+          {
+            "id": "weekly_gather_50",
+            "progress": 16,
+            "completed": false,
+            "claimed": false
+          },
+          {
+            "id": "weekly_gold_5000",
+            "progress": 559,
+            "completed": false,
+            "claimed": false
+          },
+          {
+            "id": "weekly_pet_level_5",
+            "progress": 0,
+            "completed": false,
+            "claimed": false
+          }
+        ]
+      },
+      "monthly": {
+        "lastReset": "2026-05-15T11:53:18.558Z",
+        "quests": [
+          {
+            "id": "monthly_hunt_200",
+            "progress": 75,
+            "completed": false,
+            "claimed": false
+          },
+          {
+            "id": "monthly_pvp_20",
+            "progress": 0,
+            "completed": false,
+            "claimed": false
+          },
+          {
+            "id": "monthly_gather_300",
+            "progress": 16,
+            "completed": false,
+            "claimed": false
+          },
+          {
+            "id": "monthly_gold_50000",
+            "progress": 559,
+            "completed": false,
+            "claimed": false
+          },
+          {
+            "id": "monthly_craft_50",
+            "progress": 0,
+            "completed": false,
+            "claimed": false
+          },
+          {
+            "id": "monthly_complete_all",
+            "progress": 0,
+            "completed": false,
+            "claimed": false
+          }
+        ]
+      }
+    },
+    "exp": 220,
+    "knownRecipes": [
+      "steel_sword_recipe",
+      "leather_recipe"
+    ]
+  }
+}
