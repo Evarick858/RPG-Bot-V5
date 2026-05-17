@@ -1,0 +1,8 @@
+[
+  { "name": "Slime",       "emoji": "🟢", "hp": 30,  "atk": 5,  "def": 2,  "exp": 15,  "money": 20  },
+  { "name": "Goblin",      "emoji": "👺", "hp": 50,  "atk": 10, "def": 3,  "exp": 25,  "money": 35  },
+  { "name": "Orc",         "emoji": "👹", "hp": 80,  "atk": 15, "def": 5,  "exp": 40,  "money": 55  },
+  { "name": "Skeleton",    "emoji": "💀", "hp": 60,  "atk": 12, "def": 8,  "exp": 35,  "money": 45  },
+  { "name": "Dark Knight", "emoji": "🗡️", "hp": 120, "atk": 20, "def": 10, "exp": 70,  "money": 90  },
+  { "name": "Dragon",      "emoji": "🐉", "hp": 200, "atk": 35, "def": 15, "exp": 150, "money": 200 }
+]

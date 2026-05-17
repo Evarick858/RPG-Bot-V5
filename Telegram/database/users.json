@@ -1,0 +1,32 @@
+{
+  "8166663949": {
+    "id": "8166663949",
+    "name": "Tryu",
+    "level": 1,
+    "exp": 55,
+    "expNeeded": 100,
+    "money": 735,
+    "hp": 71,
+    "maxHp": 100,
+    "atk": 10,
+    "def": 5,
+    "inventory": [],
+    "daily": 1774265654116,
+    "createdAt": 1774248431479
+  },
+  "6402978683": {
+    "id": "6402978683",
+    "name": "Lenwy",
+    "level": 1,
+    "exp": 15,
+    "expNeeded": 100,
+    "money": 520,
+    "hp": 96,
+    "maxHp": 100,
+    "atk": 10,
+    "def": 5,
+    "inventory": [],
+    "daily": null,
+    "createdAt": 1774264096198
+  }
+}

@@ -1,0 +1,7 @@
+[
+  { "name": "Health Potion", "emoji": "🧪", "price": 100, "effect": { "hp": 50  }, "desc": "Pulihkan 50 HP"    },
+  { "name": "Mega Potion",   "emoji": "💊", "price": 300, "effect": { "hp": 150 }, "desc": "Pulihkan 150 HP"   },
+  { "name": "Iron Sword",    "emoji": "⚔️", "price": 500, "effect": { "atk": 5  }, "desc": "ATK +5 permanen"  },
+  { "name": "Iron Shield",   "emoji": "🛡️", "price": 500, "effect": { "def": 5  }, "desc": "DEF +5 permanen"  },
+  { "name": "Exp Scroll",    "emoji": "📜", "price": 200, "effect": { "exp": 50 }, "desc": "EXP +50 instan"    }
+]
